@@ -76,7 +76,7 @@ li {
 	font-weight:bold;	
 }
 
-hr{
+hr:{
 	border:1px solid;	
 }
 /*********************nav end***************************************/
@@ -153,7 +153,9 @@ hr{
 .three-section p{
 	font-size:16px;
 }
-
+.three-section div{
+	
+}
 .three img{
 	width:50%;
 	height:50%;
@@ -211,3 +213,326 @@ hr{
 	height:200px;
 }
 /*-********************** section 4 ends*******************************/
+
+.fiveh1{
+	padding:70px 150px;
+	font-size:50px;
+}
+.long-five{
+	display:flex;
+	flex-direction:column;
+  border-left: 2px solid black;
+	height:2000px;
+	position:absolute;
+	left:10%;
+}
+.five{
+	display:flex;
+	padding:0 100px;
+	justify-content:space-between;
+	
+}
+.five img{
+	width:50%;
+	height:50vh;
+	padding:40px 50px;
+}
+.five div{
+	width:45%;
+}
+.five h2{
+	font-size:35px;
+}.five p{
+	font-size:20px;
+}
+.five span{
+	font-size:15px;
+	font-weight:bold;
+}
+
+.five1{
+	display:flex;
+	padding:0 100px;
+	justify-content:space-between;
+	
+}
+.five1 img{
+	width:50%;
+	height:50vh;
+	padding:40px 50px;
+}
+.five1 div{
+	width:45%;
+}
+.five1 h2{
+	font-size:35px;
+}.five1 p{
+	font-size:20px;
+}
+.five1 span{
+	font-size:15px;
+	font-weight:bold;
+}
+
+.five2{
+	display:flex;
+	padding:0 100px;
+	justify-content:space-between;
+	
+}
+.five2 img{
+	width:50%;
+	height:50vh;
+	padding:40px 50px;
+}
+.five2 div{
+	width:45%;
+}
+.five2 h2{
+	font-size:35px;
+}.five2 p{
+	font-size:20px;
+}
+.five2 span{
+	font-size:15px;
+	font-weight:bold;
+}
+
+.five3{
+	display:flex;
+	padding:0 100px;
+	justify-content:space-between;
+	
+}
+.five3 img{
+	width:50%;
+	height:50vh;
+	padding:40px 50px;
+}
+.five3 div{
+	width:45%;
+}
+.five3 h2{
+	font-size:35px;
+}.five3 p{
+	font-size:20px;
+}
+.five3 span{
+	font-size:15px;
+	font-weight:bold;
+}
+
+
+.five4{
+	display:flex;
+	padding:0 100px;
+	justify-content:space-between;
+	
+}
+.five4 img{
+	width:50%;
+	height:50vh;
+	padding:40px 50px;
+}
+.five4 div{
+	width:45%;
+}
+.five4 h2{
+	font-size:35px;
+}.five4 p{
+	font-size:20px;
+}
+.five4 span{
+	font-size:15px;
+	font-weight:bold;
+}
+
+
+
+.five5{
+	display:flex;
+	padding:0 100px;
+	justify-content:space-between;
+	
+}
+.five5 img{
+	width:50%;
+	height:50vh;
+	padding:40px 50px;
+}
+.five5 div{
+	width:45%;
+}
+.five5 h2{
+	font-size:35px;
+}.five5 p{
+	font-size:20px;
+}
+.five5 span{
+	font-size:15px;
+	font-weight:bold;
+}
+/************************end section 5****************************************/
+.div6{
+	padding:100px 100px 30px 100px;
+	background-color:white;
+	
+	
+}
+
+.six{
+	display:flex;
+	justify-content:space-between;
+	margin-top:2000px;
+	align-items:center;
+	
+}
+.six h1{
+	font-size:45px;
+}
+
+/*****************section 6 ends***************************************************/
+
+.seven{
+	padding: 0 100px;
+	background-color:white;
+}
+.seven section{
+	display:flex;
+	justify-content:space-between;
+}
+
+.photo7{
+	width:28%;
+	height:42vh;
+	padding:10px;
+}
+.logo7{
+	width:12%;
+}
+.seven div{
+	display:flex;
+	flex-direction:column;
+	width:60%;
+}
+.seven p{
+	font-size:22px;
+	font-style:italic;
+	paddin
+}
+.seven span{
+	font-size:14px;
+}
+.eight{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding:10px 100px;
+	font-size:20px;
+	
+}
+.nine{
+	display:flex;
+	padding:10px 100px;
+	justify-content:space-between;
+	align-items:center;
+
+}
+.nine span{
+	font-size:20px;
+}
+.nine h1{
+	font-size:55px;
+}
+.ten{
+	display:flex;
+	justify-content:space-between;
+	padding:100px;
+	
+}
+.ten img{
+	width:300px;
+	padding:10px;
+}
+.ten div{
+	display:flex;
+	flex-direction:column;
+}
+.ten span{
+	font-size:12px;
+}
+.ten p{
+	font-size:20px;
+	width:200px;
+}
+
+.eleven{
+	display:flex;
+	justify-content:space-evenly;
+	padding:100px;
+	
+}
+.eleven img{
+	width:300px;
+	padding:10px;
+}
+.eleven div{
+	display:flex;
+	flex-direction:column;
+}
+.eleven span{
+	font-size:12px;
+}
+.eleven p{
+	width:200px;
+	font-size:20px;
+	}
+.twelve{
+	display:flex;
+	padding:100px;
+	justify-content:space-between;
+}
+.twelve button{
+	border-radius:5px;
+	background-color:black;
+	color:white;
+	padding:8px 10px;
+	font-size:20px;
+	font-weight:bold;
+}
+.twelve h1{
+	font-size:45px;
+}
+.twelve2{
+	width:30%;
+	font-size:18px;
+	padding:0 150px;
+	font-weight:bold;
+	border-left: 2px solid black;
+	height:200px;
+	left:30%;
+}
+}
+footer{
+	background-color:#08071B;
+	color:white;
+}
+.footer-container{
+	display:flex;
+	justify-content:space-evenly;
+	padding:50px 0;
+	background-color:#08071B;
+	color:white;
+	
+}
+.footer-container img{
+	width:10%;
+	height:10%;
+}
+
+
+
+
+
+
+
